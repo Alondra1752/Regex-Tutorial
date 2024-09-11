@@ -23,6 +23,7 @@ The snippet above is used to validate email addresses. I will be explaining belo
 
 ### Anchors 
 Anchors are used to specify positions within a string. They do not match characters but rather assert where the match should occur. 
+
 ^ - asserts that the match must start at the beginning of the string 
 $ - asserts that it must end at the end of string 
 
